@@ -37,6 +37,8 @@ nav ul li a{
 }
 #banner{
     background-image:url(./banner_bg.jpg);
+    height: 700px;
+
    
 }
 section div{
